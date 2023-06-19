@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌍 My page: [csl122.com](https://csl122.com)
+
+📧 Reach me: csl122@hotmail.com
+
 <!--
 **csl122/csl122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
